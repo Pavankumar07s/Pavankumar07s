@@ -26,14 +26,7 @@ A personal portfolio website to showcase my projects and skills.
 - **Features:** Responsive design, interactive UI, contact form
 - ![Portfolio](https://raw.githubusercontent.com/PavanKumar/assets/main/portfolio-screenshot.png)
 
-### [Project 2: MERN Stack Blog Application](https://github.com/pavankumar/mern-blog)
-A full-stack blog application where users can create, read, update, and delete blog posts.
-
-- **Tech Stack:** MongoDB, Express.js, React, Node.js
-- **Features:** User authentication, CRUD operations, responsive design
-- ![MERN Blog](https://raw.githubusercontent.com/PavanKumar/assets/main/mern-blog-screenshot.png)
-
-### [Project 3: Dockerized To-Do App](https://github.com/pavankumar/docker-todo)
+### [Project 2: Dockerized To-Do App](https://github.com/pavankumar/docker-todo)
 A simple to-do application containerized using Docker for easy deployment.
 
 - **Tech Stack:** Node.js, Express.js, MongoDB, Docker
