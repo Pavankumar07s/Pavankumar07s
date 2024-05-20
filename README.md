@@ -43,9 +43,9 @@ A simple to-do application containerized using Docker for easy deployment.
 ## Education
 
 - **Bachelor of Engineering (B.E.)**
-  - **Institution:** [Your University Name]
-  - **Year:** [Start Year] - [End Year/Expected Graduation Year]
-  - **Major:** [Your Major]
+  - **Institution:** Army institute of technology,pune
+  - **Year:** [2023] - [2027]
+  - **Major:** IT
 
 ## Contact Me
 
