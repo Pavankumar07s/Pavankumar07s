@@ -42,7 +42,7 @@ A simple to-do application containerized using Docker for easy deployment.
 
 ## Contact Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/pavankumar_07s)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/pavan-kumar-8b40a5115/)
 - **GitHub:** [Your GitHub Profile](https://github.com/pavankumar07s)
 - **Email:** [pawankumar14662693@gmail.com]
 
@@ -52,6 +52,6 @@ A simple to-do application containerized using Docker for easy deployment.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pavankumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-8b40a5115/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pavankumar_07s)
