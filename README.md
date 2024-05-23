@@ -1,6 +1,6 @@
 # Hi there, I'm Pavan Kumar! 👋
 
-![Profile Banner](https://raw.githubusercontent.com/PavanKumar/assets/main/profile-banner.svg)
+<img src ="https://github.com/Pavankumar07s/Pavankumar07s/blob/main/Screenshot%20from%202024-05-19%2010-28-36.png"></img>
 
 ## About Me
 
