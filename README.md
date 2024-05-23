@@ -19,14 +19,7 @@ I am currently pursuing a Bachelor's degree in Engineering. I'm passionate about
 
 ## Projects
 
-### [Project 1: My Portfolio Website](https://github.com/pavankumar/portfolio)
-A personal portfolio website to showcase my projects and skills.
-
-- **Tech Stack:** React, CSS
-- **Features:** Responsive design, interactive UI, contact form
-- ![Portfolio](https://raw.githubusercontent.com/PavanKumar/assets/main/portfolio-screenshot.png)
-
-### [Project 2: Dockerized To-Do App](https://github.com/pavankumar/docker-todo)
+### [Project 1: Dockerized To-Do App](https://github.com/pavankumar/docker-todo)
 A simple to-do application containerized using Docker for easy deployment.
 
 - **Tech Stack:** Node.js, Express.js, MongoDB, Docker
