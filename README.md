@@ -12,7 +12,7 @@ I am currently pursuing a Bachelor's degree in Engineering. I'm passionate about
 
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** MongoDB, SQL
 - **DevOps & Containerization:** Docker
 
 ![Tech Stack](https://raw.githubusercontent.com/PavanKumar/assets/main/tech-stack.svg)
