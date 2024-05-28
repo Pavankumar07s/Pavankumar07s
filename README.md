@@ -1,6 +1,6 @@
 # Hi there, I'm Pavan Kumar! 👋
 
-<img src ="https://github.com/Pavankumar07s/Pavankumar07s/blob/main/Screenshot%20from%202024-05-19%2010-28-36.png"></img>
+<img src="https://github.com/Pavankumar07s/Pavankumar07s/blob/main/Screenshot%20from%202024-05-19%2010-28-36.png" alt="Pavan Kumar">
 
 ## About Me
 
@@ -29,19 +29,19 @@ A simple to-do application containerized using Docker for easy deployment.
 ## Education
 
 - **Bachelor of Engineering (B.E.)**
-  - **Institution:** Army institute of technology,pune
-  - **Year:** [2023] - [2027]
+  - **Institution:** Army Institute of Technology, Pune
+  - **Year:** 2023 - 2027
   - **Major:** IT
 
 ## Contact Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/pavan-kumar-8b40a5115/)
-- **GitHub:** [Your GitHub Profile](https://github.com/pavankumar07s)
-- **Email:** [pawankumar14662693@gmail.com]
+- **LinkedIn:** [Pavan Kumar](https://www.linkedin.com/in/pavan-kumar-8b40a5115/)
+- **GitHub:** [Pavan Kumar](https://github.com/pavankumar07s)
+- **Email:** [pawankumar14662693@gmail.com](mailto:pawankumar14662693@gmail.com)
 
 ## GitHub Stats
 
-![Pavan Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavankumar&show_icons=true&theme=radical)
+![Pavan Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavankumar07s&show_icons=true&theme=radical)
 
 ## Connect with Me
 
