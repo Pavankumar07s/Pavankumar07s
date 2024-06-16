@@ -14,7 +14,12 @@ I am currently pursuing a  Bachelor's degree in Engineering. I'm passionate abou
 - **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 - **Database:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=flat)
 - **DevOps & Containerization:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-- **Language:**
+- **Languages:** 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+  ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)
+  ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
+
 
 ## Projects
 
