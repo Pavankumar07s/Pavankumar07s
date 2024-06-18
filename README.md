@@ -1,7 +1,5 @@
 # Hi there, I'm Pavan Kumar! 👋
 
-<img src="https://github.com/Pavankumar07s/Pavankumar07s/blob/main/Screenshot%20from%202024-05-19%2010-28-36.png" alt="Pavan Kumar">
-
 ## About Me
 
 I am currently pursuing a  Bachelor's degree in Engineering. I'm passionate about software development and have a strong interest in web development and containerization technologies.
