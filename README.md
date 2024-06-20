@@ -48,8 +48,9 @@ A simple to-do application containerized using Docker for easy deployment.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankumar07s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pavankumar07s&icon=0&color=0)]
-(https://visitcount.itsvg.in)[![trophy](https://github-profile-trophy.vercel.app/?username=Pavankumar07s&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://visitcount.itsvg.in/api?id=Pavankumar07s&icon=0&color=0)
+
+[(https://visitcount.itsvg.in)[![trophy](https://github-profile-trophy.vercel.app/?username=Pavankumar07s&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)]
 
 
 ## Connect with Me
