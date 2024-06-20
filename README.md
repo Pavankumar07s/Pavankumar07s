@@ -39,7 +39,7 @@ I am currently pursuing a  Bachelor's degree in Engineering. I'm passionate abou
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Pavankumar07s&icon=0&color=0)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pavankumar07s)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pavankumar07s&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ## Connect with Me
