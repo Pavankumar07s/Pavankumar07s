@@ -16,17 +16,7 @@ I am currently pursuing a  Bachelor's degree in Engineering. I'm passionate abou
 - **Testing:** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat) ![Hardhat](https://img.shields.io/badge/-Hardhat-FE7A16?logo=hardhat&logoColor=white&style=flat) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 - **Operating System:** ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
 
-
-
-
 ## Projects
-
-### [Project 1: Dockerized To-Do App](https://github.com/pavankumar/docker-todo)
-A simple to-do application containerized using Docker for easy deployment.
-
-- **Tech Stack:** Node.js, Express.js, MongoDB, Docker
-- **Features:** Containerized application, scalable, persistent data storage
-- ![Docker To-Do](https://raw.githubusercontent.com/PavanKumar/assets/main/docker-todo-screenshot.png)
 
 ## Education
 
@@ -49,12 +39,12 @@ A simple to-do application containerized using Docker for easy deployment.
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Pavankumar07s&icon=0&color=0)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pavankumar07s)](https://github.com/ryo-ma/github-profile-trophy)
 
-[(https://visitcount.itsvg.in)[![trophy](https://github-profile-trophy.vercel.app/?username=Pavankumar07s&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)]
-
-
+---
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-8b40a5115/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pavankumar_07s)
+---
