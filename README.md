@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently pursuing a  Bachelor's degree in Engineering. I'm passionate about software development and  have a strong interest in web development, Blockchain and containerization technologies.
+I am currently pursuing a  Bachelor's degree in Engineering. I'm passionate about software development and have a strong interest in web development, Blockchain and containerization technologies.
 
 ## Tech Stack
 
