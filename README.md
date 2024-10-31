@@ -4,7 +4,8 @@
 
 I am currently pursuing a  Bachelor's degree in Engineering. I'm passionate about software development and have a strong interest in web  development, Blockchain and containerization technologies.
 [![An image of @pavankumar07s's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavankumar07s)](https://holopin.io/@pavankumar07s)
-[![LeetCode Badge]](https://leetcode.com/Pavankumar_07s)
+![LeetCode Questions](https://img.shields.io/badge/dynamic/json?label=LeetCode&query=solvedQuestion&url=https://leetcode-stats-api-url/Pavankumar_07s)
+
 
 ## Tech Stack
 
