@@ -4,8 +4,19 @@
 
 I am currently pursuing a  Bachelor's degree in Engineering. I'm passionate about software development and have a strong interest in web  development, Blockchain and containerization technologies.
 [![An image of @pavankumar07s's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavankumar07s)](https://holopin.io/@pavankumar07s)
-![LeetCode Stats](https://leetcard.jacoblin.cool/Pavankumar_07s?theme=dark&font=baloo&ext=heatmap)
+<h2 align="center">Leetcode Info<h2>  
+ <p align="center"> 
+<!--   <a href="https://leetcode.com/pavankumar_07s/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a> --> 
+  <a href="https://leetcode.com/Pavankumar_07s/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Pavankumar_07s/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
 
+<div align="center" justify="center"> 
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pavankumar_07s?theme=dark&font=baloo&ext=heatmap)
+</div>
 
 
 
