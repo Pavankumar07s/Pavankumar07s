@@ -51,18 +51,24 @@ I am currently pursuing a  Bachelor's degree in Engineering. I'm passionate abou
 
 ## GitHub Stats
 
+<div align="center" justify="center">
+
 ![Pavan Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavankumar07s&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pavankumar07s&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankumar07s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+ 
+</div>
+<div align="center" justify="center">
+ 
 ---
 ![](https://visitcount.itsvg.in/api?id=Pavankumar07s&icon=0&color=0)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pavankumar07s&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div>
 ---
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-8b40a5115/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pavankumar_07s)
 ---
